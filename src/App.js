@@ -67,7 +67,7 @@ const App = () => {
         amount={fromAmt}
         onChangeAmount={handleFromAmountChange} />
       <div className="text-center text-lg pb-3">
-        <h2>=</h2>
+        <h2> = </h2>
       </div>
       <Currency
         options={options}
